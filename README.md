@@ -13,7 +13,7 @@ Diese Chrome-Erweiterung fügt einen Button hinzu, um YouTube-Videos automatisch
 
 ![image](https://github.com/Mr-Robot-ops/Ads-block-youtube-to-invidious-extension/assets/55334802/cd02d978-166e-4af3-8753-652d5f154155)
 
-#Manuelle Funktion, fall YouTube zukünftig etwas ändert
+Manuelle Funktion, fall YouTube zukünftig etwas ändert
 
 ![image](https://github.com/Mr-Robot-ops/Ads-block-youtube-to-invidious-extension/assets/55334802/b8dc7a48-756a-49d0-8ad6-a043f15e7345)
 
