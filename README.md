@@ -22,7 +22,7 @@ Manuelle Funktion, fall YouTube zukünftig etwas ändert
 
 ![image](https://github.com/Mr-Robot-ops/Ads-block-youtube-to-invidious-extension/assets/55334802/f852fac6-2759-4ad3-9f8e-d320e1965c91)
 
-1. Laden Sie die Erweiterung herunter: [GitHub Releases](https://github.com/Mr-Robot-ops/
+1. Laden Sie die Erweiterung herunter: [GitHub Releases](https://github.com/Mr-Robot-ops/Ads-block-youtube-to-invidious-extension/releases)
 2. Entpacken Sie die ZIP Datei
 3. Gehen Sie im Chrome-Browser zu `chrome://extensions/`.
 4. Aktivieren Sie den "Entwicklermodus" oben rechts auf der Seite.
