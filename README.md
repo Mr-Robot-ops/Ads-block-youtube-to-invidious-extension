@@ -1,6 +1,6 @@
 #Ads-block-youtube-to-invidious-extension
 
-Was bringt mir diese Chrome-Erweiterung
+Was bringt mir diese Chrome-Erweiterung?
 - Wenn Youtube Sie aufgrund eines Adblockers blockiert hat, wird der Button "YouTube-Werbung zulassen" durch "Invidious" ersetzt, Sie werden dann nach 2,5 Sekunden automatisch zu Invidious weitergeleitet, Ihr Video wird dort geladen.
 
 What does this Chrome extension bring me?
