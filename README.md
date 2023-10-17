@@ -51,7 +51,7 @@ Anschließend die Standard Einstellung: "https://yt.artemislena.eu/" durch den g
 
 Sobald die Erweiterung installiert ist, befolgen Sie diese Schritte:
 
-1. Besuchen Sie eine YouTube-Videoseite in deinem Chrome-Browser.
+1. Besuchen Sie eine YouTube-Videoseite in Ihren Chrome-Browser.
 2. Drücken Sie einmal F5 um den Button zu ersetzen
 3. Sie werden feststellen, dass der "YouTube-Anzeigen erlauben" Button jetzt als "Invidious öffnen" angezeigt wird.
 4. Klicke Sie auf den Button "Invidious öffnen", um das Video in Invidious zu schauen. Oder warten Sie einfach 2,5 Sekunden. 
