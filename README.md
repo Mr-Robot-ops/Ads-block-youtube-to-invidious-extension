@@ -79,7 +79,7 @@ Diese Erweiterung wurde für den persönlichen Gebrauch erstellt und steht unter
 
 **Haftungsausschluss:** Diese Erweiterung ist nicht mit YouTube oder Invidious verbunden und wird von ihnen nicht unterstützt oder gesponsert.
 
-##Kontakt 
+## Kontakt 
 
 Sie können mich über GitHub kontaktieren oder Discord: iluckyduck
 
