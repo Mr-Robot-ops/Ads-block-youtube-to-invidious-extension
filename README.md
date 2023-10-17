@@ -28,7 +28,7 @@ Manuelle Funktion, falls YouTube zukünftig etwas ändert
 4. Aktivieren Sie den "Entwicklermodus" oben rechts auf der Seite.
 5. Klicken Sie auf "Entpackte Erweiterung laden" und wählen Sie das Verzeichnis aus, wo Sie die Erweiterungsdateien entpackt haben (Ornder).
 6. Optional können Sie in die Dateien popup.js und content.js den Invidious Link ändern. Siehe: [Invidious](https://docs.invidious.io/instances/)
-7. Optional To all English Youtube users you need to add to content.js line: ```if (button.textContent === 'YouTube-Anzeigen erlauben') {``` change the following: "YouTube-Anzeigen erlauben" to "Allow YouTube Ads"
+7. Optional To all English Youtube users you need to add to content.js line: ```if (button.textContent === 'YouTube-Anzeigen erlauben') {``` change the following: 'YouTube-Anzeigen erlauben' to 'Allow YouTube Ads'
 
 ## Invidious Link ändern (Optional)
 
