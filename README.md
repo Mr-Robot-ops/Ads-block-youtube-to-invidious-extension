@@ -24,7 +24,7 @@ Manuelle Funktion, fall YouTube zukünftig etwas ändert
 
 1. Laden Sie die Erweiterung herunter: [GitHub Releases](https://github.com/Mr-Robot-ops/Ads-block-youtube-to-invidious-extension/releases)
 2. Entpacken Sie die ZIP Datei
-3. Gehen Sie im Chrome-Browser zu `chrome://extensions/`.
+3. Gehen Sie im Chrome-Browser zu `chrome://extensions/`
 4. Aktivieren Sie den "Entwicklermodus" oben rechts auf der Seite.
 5. Klicken Sie auf "Entpackte Erweiterung laden" und wähle das Verzeichnis aus, wo Sie die Erweiterungsdateien entpackt haben (Ornder).
 6. Optional können Sie in der popup.js und content.js den Invidious Link ändern. Siehe: [Invidious](https://docs.invidious.io/instances/)
