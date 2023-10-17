@@ -9,7 +9,7 @@ What does this Chrome extension bring me?
 
 ## Beschreibung YouTube zu Invidious Button
 
-Diese Chrome-Erweiterung fügt einen Button hinzu, um YouTube-Videos automatisch in Invidious zu öffnen. Die Erweiterung ändert im Grunde den Text des Button "YouTube-Anzeigen erlauben" in "Invidious öffnen". Und ermöglicht es, das Video in Invidious ohne Werbung zu schauen.
+Diese Chrome-Erweiterung fügt einen Button hinzu, um YouTube-Videos automatisch in Invidious zu öffnen. Die Erweiterung ändert im Grunde den Text und Funktion des Button "YouTube-Anzeigen erlauben" in "Invidious öffnen". Und ermöglicht es, das Video in Invidious ohne Werbung zu schauen.
 
 ![image](https://github.com/Mr-Robot-ops/Ads-block-youtube-to-invidious-extension/assets/55334802/cd02d978-166e-4af3-8753-652d5f154155)
 
