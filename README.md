@@ -30,7 +30,7 @@ Manuelle Funktion, fall YouTube zukünftig etwas ändert
 
 ## Invidious Link ändern (Optional)
 
-Öffnen Sie die "content.js" mit z.B. Notepad ++
+1. Öffnen Sie die "content.js" mit z.B. Notepad ++
 
 Zeile:
 ```
@@ -38,8 +38,7 @@ const invidiousUrl = 'https://yt.artemislena.eu/watch?v=' + videoId;
 ```
 Anschließend die Standard Einstellung: "https://yt.artemislena.eu/" durch den gewünschten Invidious Link ersetzten
 
-
-Öffnen Sie die popup.js
+2. Öffnen Sie die popup.js
 
 Zeile: 
 ```
