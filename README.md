@@ -70,7 +70,7 @@ Dieses Projekt ist unter der [CC0 1.0 Universal (CC0 1.0) Public Domain Dedicati
 
 ## Dankeschön
 
-- [Invidious](https://invidio.io/) - Für die großartige Invidious-Plattform.
+- [Invidious](https://invidious.io/)) - Für die großartige Invidious-Plattform.
 
 ## Hinweis
 
