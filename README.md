@@ -58,6 +58,9 @@ Sobald die Erweiterung installiert ist, befolgen Sie diese Schritte:
 3. Sie werden feststellen, dass der "YouTube-Anzeigen erlauben" Button jetzt als "Invidious öffnen" angezeigt wird.
 4. Klicke Sie auf den Button "Invidious öffnen", um das Video in Invidious zu schauen. Oder warten Sie einfach 2,5 Sekunden. 
 
+## VirusTotal
+[VirusTotal](https://www.virustotal.com/gui/file/5d29e01131481a2e442563feea2dff9187c1bb3aa25d9a2368c97b0fccef6154)
+
 ## Beitrag
 
 Wenn Sie Fehler finden, Vorschläge haben oder zur Verbesserung dieser Erweiterung beitragen möchten, können Sie einen Pull Requests erstellen oder Issues auf GitHub melden.
