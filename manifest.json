@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Invidious Button",
+  "version": "0.4",
+  "description": "Fügt einen Button hinzu, um YouTube-Videos in Invidious zu öffnen.",
+  "permissions": ["activeTab", "storage"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/watch?*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "96": "images/icon96.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "96": "images/icon96.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": [
+    "https://www.youtube.com/"
+  ]
+}
