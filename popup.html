@@ -2,10 +2,37 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Invidious öffnen</title>
+  <style>
+    .hover-container {
+      display: inline-block;
+      font-size: 24px;
+      font-weight: bold;
+      padding: 10px;
+      border: 2px solid transparent;
+      border-image: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8A2BE2) 1;
+      border-image-slice: 1;
+      transition: transform 0.3s, opacity 0.3s, background 0.3s, color 0.3s, text-shadow 0.3s;
+      cursor: pointer;
+      transform: scale(1);
+      opacity: 1;
+      color: black; /* Standardtextfarbe (schwarz) */
+      text-shadow: 0 0 5px black; /* Schwarze Outline */
+    }
+    .hover-container:hover {
+      transform: scale(1.1);
+      opacity: 0.8;
+      background: linear-gradient(90deg, #0000CD, #C0C0C0, #0000CD);
+      color: red; /* Text wird rot bei Hover */
+	  -webkit-text-stroke: 0.8px black;
+      text-shadow: 0 0 5px black; /* Schwarze Outline beim Hover */
+    }
+  </style>
 </head>
 <body>
-  <button id="openInvidious">Invidious öffnen</button>
+  <button id="openInvidious" class="hover-container">
+    Invidious öffnen
+    <span style="margin-left: 10px;">📺</span>
+  </button>
   <script src="popup.js"></script>
 </body>
 </html>
